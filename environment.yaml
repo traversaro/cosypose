@@ -8,7 +8,7 @@ dependencies:
   - urdfdom=1.0.4
   - assimp=4.1.0
   - rclone=1.52.3
-  - gxx_linux-64=7.3.0
+  - gxx_linux-64=9
   - git-lfs=2.11.0
   - ffmpeg=4.2
   - bzip2=1.0.8
@@ -19,11 +19,11 @@ dependencies:
   - pillow=6.0.0
   - setuptools=60.7.1
   - ipython
+  - pybullet
   - pip:
       - ./deps/job-runner
       - torch
       - torchvision
-      - pybullet
       - imageio==2.6.1
       - simplejson==3.17.0
       - opencv-python==4.1.2.30
