@@ -9,9 +9,9 @@ dependencies:
   - assimp
   - rclone=1.52.3
   - gxx_linux-64=7.3.0
-  - git-lfs=2.11.0
+  - git-lfs
   - ffmpeg=4.2
-  - bzip2=1.0.8
+  - bzip2
   - git=2.28.0
   - cmake
   - pip=19.3.1
